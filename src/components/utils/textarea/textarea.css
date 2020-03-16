@@ -1,0 +1,9 @@
+.error{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+textarea{
+    font-size: 18px;
+    resize: none;
+}

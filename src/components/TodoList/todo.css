@@ -1,0 +1,43 @@
+.task{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 500px;
+    background-color: #c1d3ab;
+    border-radius: 10px;
+    margin-top: 3px;
+    padding: 8px;
+}
+
+
+
+.button{
+    color: rgb(94, 9, 13);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.finish{
+    text-decoration: line-through;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+
+.addBtn{
+    
+    background-color: orange;
+    border-radius: 10px;
+    padding: 7px 25px 7px 25px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.task:hover{
+    background-color: rgb(138, 132, 130);
+}
